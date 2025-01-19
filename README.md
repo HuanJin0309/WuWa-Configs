@@ -1,8 +1,11 @@
 # WuWa-Configs
+#鸣潮画质配置文件
 
 [<img src="https://discord.com/api/guilds/798954204420112454/widget.png?style=banner2">](https://discord.gg/gczjQvgzWE)
 
 For explanations and image comparisons: [Link](https://docs.google.com/document/d/e/2PACX-1vTuIAInOasQNStOkxvBX2qj-SkX1V5us16VZxy5cSSLHlntAIip0avYopPqpgACuaGe9I-5fJrKIyl4/pub)
+用于解释和图像比较:
+[Link](https://docs.google.com/document/d/e/2PACX-1vTuIAInOasQNStOkxvBX2qj-SkX1V5us16VZxy5cSSLHlntAIip0avYopPqpgACuaGe9I-5fJrKIyl4/pub)
 
 Common folder contains:
 
@@ -18,6 +21,9 @@ Material examples: Sanhua's necklace, bronze scale on Jinhsi's outift, water wav
 
 
 Copy ``Engine.ini`` (choose one config) and other ini files to this location: 
+> ..Wuthering Waves\Wuthering Waves Game\Client\Saved\Config\WindowsNoEditor
+
+复制“Engine.ini”（选择其中一个配置）到下列文件夹中
 > ..Wuthering Waves\Wuthering Waves Game\Client\Saved\Config\WindowsNoEditor
 
 | Config | NVIDIA                                                                            | AMD                                                                   | Intel                |
